@@ -1,5 +1,5 @@
 ## Vision
-The Dual System of Training (DST) Monitoring System, through a tech-enabled solution,  will facilitate employment linkages through Industrial Training Institutes (ITIs) by enabling granular, accurate, and verifiable tracking of data
+The Dual System of Training (DST) Monitoring System, through a tech-enabled solution,  will facilitate employment linkages through Industrial Training Institutes (ITIs) by enabling granular, accurate, and verifiable tracking of data.
 
 ## Target Group
 ITI Trainees, ITI Trainers and Principals 
