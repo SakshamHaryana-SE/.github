@@ -22,7 +22,7 @@ Below is a brief overview of each repository:
 | Repository           | Description                                      |
 |----------------------|--------------------------------------------------|
 | [dst-frontend](https://github.com/SakshamHaryana-SE/dst-frontend)    | A web application in React.js|
-| [enketo](https://github.com/SakshamHaryana-SE/enketo)    | Open source library for handling forms|
+| [enketo](https://github.com/SakshamHaryana-SE/enketo)    | [Open source library](https://enketo.org/about/) for handling forms|
 
 Feel free to explore each repository to learn more about the projects and their functionalities.
 
