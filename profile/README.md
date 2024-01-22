@@ -14,3 +14,19 @@ ITI Trainees, ITI Trainers and Principals
 - ITI Trainers and Principals
   - Accurate tracking of attendance of Trainees during OJT with reduced input
   - Easy access to granular and detailed record of placements
+
+## Reposito
+
+Welcome to the official repository list for My Organization. Below is a brief overview of each repository:
+
+| Repository           | Description                                      |
+|----------------------|--------------------------------------------------|
+| [dst-frontend](link1)    | A web application in React.js|
+| [enketo](link2)    | Open source library for handling forms|
+
+Feel free to explore each repository to learn more about the projects and their functionalities.
+
+## Contributing
+
+If you're interested in contributing to any of these projects, please check the individual repository's documentation and guidelines. We welcome contributions and feedback from the community.
+
