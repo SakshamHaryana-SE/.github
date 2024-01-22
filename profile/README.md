@@ -15,14 +15,14 @@ ITI Trainees, ITI Trainers and Principals
   - Accurate tracking of attendance of Trainees during OJT with reduced input
   - Easy access to granular and detailed record of placements
 
-## Reposito
+## Repositories
 
-Welcome to the official repository list for My Organization. Below is a brief overview of each repository:
+Below is a brief overview of each repository:
 
 | Repository           | Description                                      |
 |----------------------|--------------------------------------------------|
-| [dst-frontend](link1)    | A web application in React.js|
-| [enketo](link2)    | Open source library for handling forms|
+| [dst-frontend](https://github.com/SakshamHaryana-SE/dst-frontend)    | A web application in React.js|
+| [enketo](https://github.com/SakshamHaryana-SE/enketo)    | Open source library for handling forms|
 
 Feel free to explore each repository to learn more about the projects and their functionalities.
 
